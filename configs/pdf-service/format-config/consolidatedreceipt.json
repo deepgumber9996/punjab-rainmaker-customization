@@ -16,11 +16,6 @@
           "body": [
             [
               {
-                "image": "{{logoImage}}",
-                "width": 50,
-                "height": 50
-              },
-              {
                 "stack": [
                   {
                     "text": "{{logo-header}} {{mcGrade}}",
@@ -636,12 +631,7 @@
             120
           ],
           "body": [
-            [
-              {
-                "image": "{{logoImage}}",
-                "width": 50,
-                "height": 50
-              },
+            [  
               {
                 "stack": [
                   {
